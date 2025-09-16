@@ -20,6 +20,7 @@ header {
   left: 0;
   width: 100%;       
   z-index: 1000;
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
 }
 
 
@@ -184,3 +185,4 @@ button:hover {
 }
 
 @media all (min-width:320px) and (max-width:800px)
+
